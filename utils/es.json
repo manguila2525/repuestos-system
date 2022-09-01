@@ -1,0 +1,13 @@
+{
+  "language":"es",
+  "title": "Anthonrespuestos",
+  "titleRepuesto": "Repuestos",
+  "sidebar": [{
+    "item": "Repuestos",
+    "url": "/dashboard/repuestos"
+  },
+  {
+    "item": "Registro",
+    "url": "/dashboard/registro"
+  }]
+}
